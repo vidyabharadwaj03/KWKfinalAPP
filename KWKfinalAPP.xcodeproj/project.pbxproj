@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1922A6F026BC3D7300A03CC0 /* ConnectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922A6EF26BC3D7300A03CC0 /* ConnectViewController.swift */; };
+		1922A6F226BC3DB500A03CC0 /* RelaxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922A6F126BC3DB500A03CC0 /* RelaxViewController.swift */; };
+		1922A6F426BC3DE900A03CC0 /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922A6F326BC3DE900A03CC0 /* LearnViewController.swift */; };
 		1940F27E26BB65500099C0A4 /* LearnFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1940F27D26BB65500099C0A4 /* LearnFirstViewController.swift */; };
 		1940F28026BB659A0099C0A4 /* LearnSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1940F27F26BB659A0099C0A4 /* LearnSecondViewController.swift */; };
 		1940F28226BB65B10099C0A4 /* LearnThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1940F28126BB65B10099C0A4 /* LearnThirdViewController.swift */; };
@@ -41,6 +44,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1922A6EF26BC3D7300A03CC0 /* ConnectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectViewController.swift; sourceTree = "<group>"; };
+		1922A6F126BC3DB500A03CC0 /* RelaxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelaxViewController.swift; sourceTree = "<group>"; };
+		1922A6F326BC3DE900A03CC0 /* LearnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
 		1940F27D26BB65500099C0A4 /* LearnFirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnFirstViewController.swift; sourceTree = "<group>"; };
 		1940F27F26BB659A0099C0A4 /* LearnSecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnSecondViewController.swift; sourceTree = "<group>"; };
 		1940F28126BB65B10099C0A4 /* LearnThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnThirdViewController.swift; sourceTree = "<group>"; };
@@ -124,6 +130,9 @@
 				1940F28126BB65B10099C0A4 /* LearnThirdViewController.swift */,
 				1940F28326BB65C60099C0A4 /* LearnFourthViewController.swift */,
 				1940F28526BB65DC0099C0A4 /* LearnFifthViewController.swift */,
+				1922A6EF26BC3D7300A03CC0 /* ConnectViewController.swift */,
+				1922A6F126BC3DB500A03CC0 /* RelaxViewController.swift */,
+				1922A6F326BC3DE900A03CC0 /* LearnViewController.swift */,
 			);
 			path = KWKfinalAPP;
 			sourceTree = "<group>";
@@ -281,9 +290,12 @@
 				D399F09C26B9CA4D00F852D6 /* KWKfinalAPP.xcdatamodeld in Sources */,
 				1940F28026BB659A0099C0A4 /* LearnSecondViewController.swift in Sources */,
 				1940F28426BB65C60099C0A4 /* LearnFourthViewController.swift in Sources */,
+				1922A6F426BC3DE900A03CC0 /* LearnViewController.swift in Sources */,
+				1922A6F026BC3D7300A03CC0 /* ConnectViewController.swift in Sources */,
 				1940F27E26BB65500099C0A4 /* LearnFirstViewController.swift in Sources */,
 				D399F09626B9CA4D00F852D6 /* ViewController.swift in Sources */,
 				D399F09226B9CA4D00F852D6 /* AppDelegate.swift in Sources */,
+				1922A6F226BC3DB500A03CC0 /* RelaxViewController.swift in Sources */,
 				D399F09426B9CA4D00F852D6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
